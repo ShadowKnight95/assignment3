@@ -3,7 +3,9 @@ li {list-style-type: none;
     font-family: sans-serif;
     color: aqua;
 }
-body {background: grey;}
+body {background: grey;
+    text-align: center;
+}
 
 h1 {font-size: 3em;
     font-family: sans-serif;
